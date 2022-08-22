@@ -1,0 +1,7 @@
+ru\yandex\RandomGenerator.class
+ru\yandex\RestClient.class
+ru\yandex\CourierClient.class
+ru\yandex\Courier.class
+ru\yandex\CourierCredentials.class
+ru\yandex\OrderClient.class
+ru\yandex\Order.class
